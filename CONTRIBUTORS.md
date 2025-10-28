@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [Parshwa](https://github.com/parshwakansara05)
+- Place:Gujarat , India
+- Bio: Student
+- Github: [parshwakansara05](https://github.com/parshwakansara05)
